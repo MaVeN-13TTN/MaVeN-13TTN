@@ -23,7 +23,7 @@ I'm **Ndung'u Kinyanjui**, a passionate **Cloud Engineer | Cybersecurity Analyst
 - 🤔 I’m looking for help with **advanced Kubernetes security and AI-driven threat detection**.
 - 💬 Ask me about **AWS, DevOps, cybersecurity, full-stack development, and CTF challenges**.
 - 📫 How to reach me:
-  - 🔗 **[LinkedIn](https://www.linkedin.com/in/ndungukinyanjui/)**
+  - 🔗 **[LinkedIn](https://www.linkedin.com/in/ndungu-kinyanjui/)**
   - ✉️ **Email: kinyanjuindungu1324@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love breaking things (ethically) to learn how to secure them!**
