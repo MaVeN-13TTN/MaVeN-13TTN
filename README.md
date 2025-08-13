@@ -16,7 +16,7 @@
 
 Hi there! I'm **Ndung'u Kinyanjui**, an aspiring **Data Scientist** and **AWS Certified Cloud Engineer** passionate about using AI and cloud tools to solve real-world problems.
 
-Currently pursuing a Bachelor of Applied Computer Science at Daystar University while enrolled in the **ALX Data Science Program** and **ALX ProDev Backend Program**. My learning approach is hands-on and project-driven—I build solutions to understand concepts, document my progress, and share insights with the community.
+Currently pursuing a Bachelor of Applied Computer Science at Daystar University while enrolled in the **DataCamp Donates Program**. My learning approach is hands-on and project-driven—I build solutions to understand concepts, document my progress, and share insights with the community.
 
 💡 **Focus Areas:** Machine Learning, Cloud Architecture (AWS), Data Analysis, and MLOps
 
@@ -89,10 +89,7 @@ Currently pursuing a Bachelor of Applied Computer Science at Daystar University 
 - 🎓 **Bachelor of Applied Computer Science** – Daystar University (In Progress)
 - 🏆 **AWS Certified Solutions Architect – Associate**
 - ☁️ **AWS Cloud Practitioner**
-- 📊 **ALX Data Science Program** (In Progress)
-- 💻 **ALX ProDev Backend Program** (In Progress)
 - 📚 **DataCamp Donates Scholarship** (1-year subscription)
-- 🐙 **GitHub Foundations Certificate**
 
 ---
 
