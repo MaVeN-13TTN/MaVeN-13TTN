@@ -4,81 +4,72 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-📊-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-🤖-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Cloud%20Computing-☁️-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI%20Engineering-🧠-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DevOps-🚀-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend%20Development-💻-green?style=for-the-badge">
 </p>
 
 ---
 
 ## 👋 About Me
 
-Hi there! I'm **Ndung'u Kinyanjui**, an aspiring **Data Scientist** and **AWS Certified Cloud Engineer** passionate about using AI and cloud tools to solve real-world problems.
+Hi there! I'm **Ndung'u Kinyanjui**, an aspiring **Cloud DevOps Engineer** and **Backend Developer** passionate about building scalable cloud infrastructure and robust backend systems.
 
-Currently pursuing a Bachelor of Applied Computer Science at Daystar University while enrolled in the **DataCamp Donates Program**. My learning approach is hands-on and project-driven—I build solutions to understand concepts, document my progress, and share insights with the community.
+Currently pursuing a Bachelor of Applied Computer Science at Daystar University. My learning approach is hands-on and project-driven—I build solutions to understand concepts, document my progress, and share insights with the community.
 
-💡 **Focus Areas:** Machine Learning, Cloud Architecture (AWS), Data Analysis, and MLOps
+💡 **Focus Areas:** Cloud Architecture (AWS), DevOps, Backend Development, and Infrastructure as Code (IaC)
 
 - 🏆 **AWS Certified Solutions Architect – Associate** | ☁️ **AWS Cloud Practitioner**
-- 💬 Ask me about **machine learning, data science, AWS cloud, and Python development**
-- 😄 Pronouns: He/Him | ⚡ Fun fact: I turn data into insights and deploy them to the cloud!
+- 💬 Ask me about **AWS cloud, DevOps, CI/CD, and Python backend development**
+- 😄 Pronouns: He/Him | ⚡ Fun fact: I automate everything I can and deploy it to the cloud!
 
 ---
 
 ## 🧰 Tech Stack
 
-### 📊 **Data Science & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-
-### ☁️ **Cloud Computing & MLOps**
+### ☁️ **Cloud Computing**
+> *Designing and provisioning scalable cloud infrastructure.*
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🚀 **DevOps**
+> *Automating deployment, scaling, and monitoring.*
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-### 💻 **Programming & Development**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 💻 **Backend Development**
+> *Building robust APIs and managing data.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-### 🛠️ **Development Tools & Platforms**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 
@@ -87,9 +78,16 @@ Currently pursuing a Bachelor of Applied Computer Science at Daystar University 
 ## 🎯 Education & Certifications
 
 - 🎓 **Bachelor of Applied Computer Science** – Daystar University (In Progress)
-- 🏆 **AWS Certified Solutions Architect – Associate**
-- ☁️ **AWS Cloud Practitioner**
-- 📚 **DataCamp Donates Scholarship** (1-year subscription)
+
+| Certification / Program | Issuer | Date Issued | Status |
+| :--- | :--- | :--- | :--- |
+| **ProDev Backend Engineering** | ALX | Aug 2025 | Completed |
+| **Professional Foundations** | ALX | Apr 2025 | Completed |
+| **GitHub Foundations** | GitHub | Feb 2025 | **Active** (Exp: Feb 2028) |
+| **Cloud Computing** | ALX | Dec 2024 | Completed |
+| **AWS Solutions Architect – Associate** | AWS | Nov 2024 | **Active** (Exp: Nov 2027) |
+| **AWS Cloud Practitioner** | AWS | Nov 2023 | **Active** (Exp: Nov 2027) |
+| **Intro to Software Engineering** | ALX | Nov 2023 | Completed |
 
 ---
 
