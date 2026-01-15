@@ -96,8 +96,8 @@ Currently pursuing a Bachelor of Applied Computer Science at Daystar University.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaVeN-13TTN&show_icons=true&theme=radical&hide=contribs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaVeN-13TTN&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats-ofjl.vercel.app/api?username=MaVeN-13TTN&show_icons=true&theme=radical" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ofjl.vercel.app/api/top-langs/?username=MaVeN-13TTN&layout=compact&theme=radical" height="195" alt="Top Languages" />
 </p>
 
 ---
